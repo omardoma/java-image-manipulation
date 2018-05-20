@@ -1,8 +1,8 @@
 # java-image-manipulation
 
-Eclipse Java Project
+Some popular image manipulation algorithms in Java.
 
-How to run? 
+## How to run? 
 
 Import Project in eclipse
 
